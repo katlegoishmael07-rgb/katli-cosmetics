@@ -1,3 +1,7 @@
+header{
+    padding: 1rem 0;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -19,11 +23,8 @@ body{
     font size: 1.5rem:
 }
 .logo{
-    width: 18vw;
-    max-width: 12rem;
-    min-width: 6rem;
+    width: 10rem
     height:auto;
-    text-align: center;
     display: block'
 }
 
