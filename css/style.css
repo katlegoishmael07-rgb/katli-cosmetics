@@ -7,7 +7,6 @@ body{
     
 }
 
-/*Navigation Bar */
 .navbar{
     background-color: #e6e6fa;
     color: white;
@@ -27,7 +26,6 @@ body{
     display: block;
 }
 
-/* Hero Section */
 .hero-section{
     background-color: #e6e6fa;
     padding: 10rem 0;
@@ -45,8 +43,6 @@ body{
     color: #5c5470;
 }
 
-
-/*Service Cards */
 .service-cards{
     background-color: white;
     border-radius: 1rem;
@@ -65,8 +61,6 @@ body{
     border-radius: 1rem;
 }
 
-
-/*Gallery Boxes */
 .gallery-boxes{
     background-color:#f3f0ff;
     height: 15rem;
@@ -86,7 +80,6 @@ body{
     transform: scale(1.03);
 }
 
-/*Buttons */
 .btn-dark{
     background-color: #6a5acd;
     border: none;
@@ -97,7 +90,6 @@ body{
     background-color: #4b3f72;
 }
 
-/*Footer */
 .footer{
     background-color: #6a5acd;
     color:white
